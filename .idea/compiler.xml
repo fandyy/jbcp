@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="chapter02.00-calendar" />
+        <module name="calendar" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chapter02.00-calendar" target="1.6" />
+      <module name="calendar" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -36,9 +36,9 @@
             scheme="https"
             secure="true"
             sslProtocol="TLS"
-            keystoreFile="D:\\eclipse\\workspace\\calendar/src/etc/keys/tomcat.keystore"
+            keystoreFile="E:\\intellijspace\\jbcp/src/etc/keys/tomcat.keystore"
             keystorePass="changeit"
-            truststoreFile="D:\\eclipse\\workspace\\calendar/src/etc/keys/tomcat.truststore"
+            truststoreFile="E:\\intellijspace\\jbcp/src/etc/keys/tomcat.truststore"
             trustStorePass="changeit"
             clientAuth="true"/>
 

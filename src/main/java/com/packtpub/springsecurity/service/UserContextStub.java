@@ -12,7 +12,8 @@ import com.packtpub.springsecurity.domain.CalendarUser;
  *
  * @author Rob Winch
  */
-@Component
+
+//@Component
 public class UserContextStub implements UserContext {
     private final CalendarUserDao userService;
     /**
